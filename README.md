@@ -122,7 +122,7 @@ Esse desafio deve ser entregue a partir da plataforma Skylab, envie o link do re
 Caso você queira ver como resolver o desafio, fizemos um vídeo explicando o passo a passo para cumprir com todos os requisitos da aplicação:
 
 <a href="https://youtu.be/FYsFvjM6AJM" target="_blank" align="center">
-  <img src="./assets/challenge-05-thumb.png">
+  <img src="https://user-images.githubusercontent.com/22107794/86681974-7e3c2980-bfd6-11ea-9de3-4d9899e27c0c.png">
 </a>
 
 ## :memo: Licença
